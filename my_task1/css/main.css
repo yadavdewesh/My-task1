@@ -2,56 +2,96 @@
 background:#0088cf;
 }
 .linka a{color: white;
-font-size: 14px;
-font-family: serif;
+  font-size: 14px;
+  font-family: serif;
 }
 .nav-pills ram >li>a {
- border-radius: 0px; 
+  border-radius: 0px; 
 }
-.padd{padding: 25px;}
-.articleImage{float: right;}
-.topmar{margin-top: 5em;}
-.sidepi{margin-bottom: 1.5em;}
-.multi{font-size: 20px;
+.padd{ 
+  padding: 25px;
+}
+.articleImage{
+  float: right;
+}
+.topmar{margin-top: 5em;
+}
+.sidepi{margin-bottom: 1.5em;
+}
+.multi{
+font-size: 20px;
 font-weight: 600;
 }
-.learn{margin-top: 2.5em;}
+.learn{margin-top: 2.5em;
+}
 .midd {
 top: -48px;
 background: white;
 }
-.cent{text-align: center;}
-.rim{margin-top: 3em;}
-.cont{background-color: #4a9fc8;height: 80px;margin-left: 0px;}
-.impe{font-size:25px;}
-#footer{background:#034d74;margin-top: 6em;}
-.footerma{margin-top: 4em;color: white;margin-bottom: 2em;
+.cent{text-align: center;
 }
-.alin{text-align: center;}
-#footerbott{background:#0a8dd1;}
-.foot{color: white;
-font-size: 10px;
-padding: 15px;}
-.whiteText11px{font-size: 12px;
-font-family: inherit;}
-.whiteText{margin-bottom: 20px;}
-.deve{font-size: 28px;
-font-weight: bolder;
-color: #2692d2;}
-.mar{margin-left: 1.2em;}
-.marr{margin-left: 3.2em;}
+.rim{margin-top: 3em;
+}
+.cont{
+    background-color: #4a9fc8;
+    height: 80px;
+    margin-left: 0px;
+}
+.impe{
+font-size:25px;
+}
+#footer{background:#034d74;
+        margin-top: 6em;
+}
+.footerma{
+    margin-top: 4em;
+    color: white;
+    margin-bottom: 2em;
+}
+.alin{
+     text-align: center;
+}
+#footerbott{ 
+     background:#0a8dd1;
+}
+.foot{
+    color: white;
+    font-size: 10px;
+    padding: 15px;
+}
+.whiteText11px{
+   font-size: 12px;
+   font-family: inherit;
+}
+.whiteText{
+    margin-bottom: 20px;
+}
+.deve{
+   font-size: 28px;
+   font-weight: bolder;
+   color: #2692d2;
+}
+.mar{
+    margin-left: 1.2em;
+}
+.marr{
+    margin-left: 3.2em;
+}
 
-.fo{font-size: 20px
-;}
-.para{color: #59a7cd;
-width: 70%;}
+.fo{
+     font-size: 20px;
+}
+.para{
+    color: #59a7cd;
+    width: 70%;
+}
 .nav>li>a {
-position: relative;
-display: block;
-padding: 10px 4px;
+   position: relative;
+   display: block;
+   padding: 10px 4px;
 }
 .nav>li>a last{
-position: relative;
-display: block;
-padding: 10px 7px;
+  position: relative;
+  display: block;
+  padding: 10px 7px;
 }
